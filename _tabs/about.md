@@ -6,16 +6,12 @@ order: 4
 
 
 ```shell
-br0pi@simplisec:~$ whoami 
+marsomx@marsomxblog:~$ whoami 
 
-Ingegnere ICT con la passione per la Cyber Security 
+IT Engineer with Cyber Security passion
 
-Malware Analyst | GREM | Z2A
-
-Linux lover 
+Malware Analysis | Reverse Engineering | CTI 
 
 CTF player
-
-Membro di Metro Olografix
 
 ```
