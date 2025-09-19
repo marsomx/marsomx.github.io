@@ -13,26 +13,26 @@ baseurl: ""
 lang: it
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: CEST
+timezone: CET
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SimpliSec Blog  # the main title
+title: MarsoMX Blog  # the main title
 
-tagline: sicurezza informatica  # it will display as the sub-title
+tagline: malware analysis notes  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog personale sulla sicurezza informatica. Malware Analysis, Reverse Engineering, Penetration test, CTF, Cyber Security, Marsica, Abruzzo, L\'Aquila, Avezzano, Roma, Pescara
+  Personal blog about Malware Analysis, Reverse Engineering, Penetration test, CTF, Cyber Security, Marsica, Abruzzo, L\'Aquila, Avezzano, Roma, Pescara
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
 
 github:
-  username: br0pi # change to your github username
+  username: marsomx # change to your github username
 
 twitter:
-  username: br0pi # change to your twitter username
+  username: marsomx_ # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,8 +41,8 @@ social:
   email: simplicio.liberatore@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/br0pi # change to your twitter homepage
-    - https://github.com/br0pi  # change to your github homepage
+    - https://x.com/marsomx_ # change to your twitter homepage
+    - https://github.com/marsomx  # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/simplicio-liberatore/
